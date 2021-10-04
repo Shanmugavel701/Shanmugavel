@@ -1,2 +1,0 @@
-# Shanmugavel
-Ethical hacker
